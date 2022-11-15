@@ -14,8 +14,11 @@
 There are 4 main views of AI
 
 > acting humanly
+
 > thinking humanly
+
 > acting rationally
+
 > thinking rationally
 
 ## acting humanly-The Turing Test
@@ -30,9 +33,9 @@ There are 4 main views of AI
 
 ## thinking humanly
 
-Thinking humanly means trying to understand and model how the human mind works.
-• There are at least two possible routes that humans use to find the answer to a question: – We reason about it to find the answer. This is called “introspection”. – We conduct experiments to find the answer, drawing upon scientific techniques to conduct controlled experiments and measure change.
-• The field of Cognitive Science focuses on modeling how people think.
+- Thinking humanly means trying to understand and model how the human mind works.
+- There are at least two possible routes that humans use to find the answer to a question: – We reason about it to find the answer. This is called “introspection”. – We conduct experiments to find the answer, drawing upon scientific techniques to conduct controlled experiments and measure change.
+- The field of Cognitive Science focuses on modeling how people think.
 
 ## acting rationally
 
@@ -45,11 +48,11 @@ Thinking humanly means trying to understand and model how the human mind works.
 
 ## thinking rationally
 
-• Trying to understand how we actually think is one route to AI.
-• But another approach is to model how we should think.
-• The “thinking rationally” approach to AI uses symbolic logic to capture the laws of rational thought as symbols that can be manipulated.
-• Reasoning involves manipulating the symbols according to well-defined rules, kind of like algebra.
-• The result is an idealized model of human reasoning. This approach is attractive to theoretists, i.e., modeling how humans should think and reason in an ideal world.
+- Trying to understand how we actually think is one route to AI.
+- But another approach is to model how we should think.
+- The “thinking rationally” approach to AI uses symbolic logic to capture the laws of rational thought as symbols that can be manipulated.
+- Reasoning involves manipulating the symbols according to well-defined rules, kind of like algebra.
+- The result is an idealized model of human reasoning. This approach is attractive to theoretists, i.e., modeling how humans should think and reason in an ideal world.
 
 # History Of AI
 
@@ -78,18 +81,18 @@ Thinking humanly means trying to understand and model how the human mind works.
 
 ## Philosophy
 
-• Can formal rules be used to draw valid conclusions?
-• How does the mind arise from a physical brain?
-• Where does knowledge come from?
-• How does knowledge lead to action?
+- Can formal rules be used to draw valid conclusions?
+- How does the mind arise from a physical brain?
+- Where does knowledge come from?
+- How does knowledge lead to action?
 
 Rationalism, Dualism, Materialism, Empiricism, Induction, Logical Positivism, Confirmation Theory.
 
 ## Economics
 
-How should we make decisions so as to maximize payoff?
-How should we do this when others may not go along?
-How should we do this when the payoff may be far in the future?
+- How should we make decisions so as to maximize payoff?
+- How should we do this when others may not go along?
+- How should we do this when the payoff may be far in the future?
 
 Utility, Decision Theory, Game Theory, Operations Research.
 
@@ -119,17 +122,17 @@ Neuroscience is the study of the nervous system, especially the brain. We are st
 
 ## Mathematics
 
-What are the formal rules to draw valid conclusions?
-What can be computed?
-How do we reason with uncertain information?
-The main three fundamental areas are logic, computation and probability.
+- What are the formal rules to draw valid conclusions?
+- What can be computed?
+- How do we reason with uncertain information?
+  The main three fundamental areas are logic, computation and probability.
 
 Algorithm, incompleteness theorem, computable, tractability, NP completeness, Non deterministic polynomial and probability.
 
 ## Computer Science
 
-How can we build an efficient computer?
-Operational computer and operational programmable computer
+- How can we build an efficient computer?
+  Operational computer and operational programmable computer
 
 AI has pioneered many ideas that have made their way back to mainstream computer science, including time sharing, interactive interpreters, personal computers with windows and mice, rapid development environments, the linked list data type, automatic storage management, and key concepts of symbolic, functional, declarative, and object-oriented programming.
 
